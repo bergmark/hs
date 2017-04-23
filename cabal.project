@@ -1,0 +1,39 @@
+with-compiler: ghc-8.0.2
+packages:
+  HUnit
+  aeson
+  aeson-utils
+  aeson/attoparsec-iso8601
+  arrow-list
+  attoparsec-expr
+  fay
+  fay-dom
+  fay-jquery
+  fay-prim
+  fay-text
+  fay-uri
+  fclabels
+  feed
+  generic-aeson
+  generic-xmlpickler
+  hxt-pickle-utils
+  imagesize-conduit
+  json-schema
+  multipart
+  rest/rest-core
+  rest/rest-example
+  rest/rest-gen
+  rest/rest-happstack
+  rest/rest-snap
+  rest/rest-stringmap
+  rest/rest-types
+  rest/rest-wai
+  through-text
+  tostring
+  transliterate
+  uri-encode
+constraints:
+    aeson >= 1.2
+  , HUnit >= 1.6
+  , warp >= 3.2.11.2
+  , wai >= 3.2.1.1
