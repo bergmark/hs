@@ -1,0 +1,75 @@
+[submodule "HUnit"]
+	path = HUnit
+	url = git@github.com:hspec/HUnit.git
+[submodule "aeson"]
+	path = aeson
+	url = git@github.com:bos/aeson.git
+[submodule "aeson-utils"]
+	path = aeson-utils
+	url = git@github.com:silkapp/aeson-utils.git
+[submodule "arrow-list"]
+	path = arrow-list
+	url = git@github.com:silkapp/arrow-list.git
+[submodule "attoparsec-expr"]
+	path = attoparsec-expr
+	url = git@github.com:silkapp/attoparsec-expr
+[submodule "fay"]
+	path = fay
+	url = git@github.com:faylang/fay.git
+[submodule "fay-dom"]
+	path = fay-dom
+	url = git@github.com:faylang/fay-dom.git
+[submodule "fay-jquery"]
+	path = fay-jquery
+	url = git@github.com:faylang/fay-jquery.git
+[submodule "fay-prim"]
+	path = fay-prim
+	url = git@github.com:faylang/fay-prim.git
+[submodule "fay-text"]
+	path = fay-text
+	url = git@github.com:faylang/fay-text.git
+[submodule "fay-uri"]
+	path = fay-uri
+	url = git@github.com:faylang/fay-uri.git
+[submodule "fclabels"]
+	path = fclabels
+	url = git@github.com:sebastiaanvisser/fclabels.git
+[submodule "feed"]
+	path = feed
+	url = git@github.com:bergmark/feed.git
+[submodule "generic-aeson"]
+	path = generic-aeson
+	url = git@github.com:silkapp/generic-aeson.git
+[submodule "generic-xmlpickler"]
+	path = generic-xmlpickler
+	url = git@github.com:silkapp/generic-xmlpickler
+[submodule "girella"]
+	path = girella
+	url = git@github.com:silkapp/girella
+[submodule "hxt-pickle-utils"]
+	path = hxt-pickle-utils
+	url = git@github.com:silkapp/hxt-pickle-utils.git
+[submodule "imagesize-conduit"]
+	path = imagesize-conduit
+	url = git@github.com:silkapp/imagesize-conduit
+[submodule "json-schema"]
+	path = json-schema
+	url = git@github.com:silkapp/json-schema.git
+[submodule "multipart"]
+	path = multipart
+	url = git@github.com:silkapp/multipart.git
+[submodule "rest"]
+	path = rest
+	url = git@github.com:silkapp/rest.git
+[submodule "through-text"]
+	path = through-text
+	url = git@github.com:bergmark/through-text.git
+[submodule "tostring"]
+	path = tostring
+	url = git@github.com:silkapp/tostring.git
+[submodule "transliterate"]
+	path = transliterate
+	url = git@github.com:bergmark/transliterate.git
+[submodule "uri-encode"]
+	path = uri-encode
+	url = git@github.com:silkapp/uri-encode.git
