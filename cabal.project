@@ -46,3 +46,4 @@ constraints:
   , happstack-server >= 7.5.0
   , conduit-extra >= 1.2
   , http-types >= 0.10
+  , tasty >= 0.12
