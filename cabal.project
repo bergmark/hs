@@ -47,3 +47,5 @@ constraints:
   , conduit-extra >= 1.2
   , http-types >= 0.10
   , tasty >= 0.12
+  , tasty-hunit >= 0.10
+  , Cabal >= 2
