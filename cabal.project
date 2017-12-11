@@ -35,17 +35,18 @@ packages:
 --  transliterate
   uri-encode
 constraints:
-    aeson >= 1.2
-  , base-orphans >= 0.6
+    Cabal >= 2
   , HUnit >= 1.6
-  , wai >= 3.2.1.1
-  , warp >= 3.2.11.2
-  , haskell-src-exts >= 1.19.1
-  , criterion >= 1.2
-  , optparse-applicative >= 0.14
-  , happstack-server >= 7.5.0
+  , aeson >= 1.2
+  , base-orphans >= 0.6
   , conduit-extra >= 1.2
+  , criterion >= 1.2
+  , generic-deriving >= 1.12
+  , happstack-server >= 7.5.0
+  , haskell-src-exts >= 1.19.1
   , http-types >= 0.10
+  , optparse-applicative >= 0.14
   , tasty >= 0.12
   , tasty-hunit >= 0.10
-  , Cabal >= 2
+  , wai >= 3.2.1.1
+  , warp >= 3.2.11.2
