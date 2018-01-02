@@ -22,6 +22,7 @@ packages:
   json-schema
   multipart
   rest/code-builder
+  rest/rest-client
   rest/rest-core
   rest/rest-example
   rest/rest-gen
@@ -44,7 +45,7 @@ constraints:
   , generic-deriving >= 1.12
   , happstack-server >= 7.5.0
   , haskell-src-exts >= 1.19.1
-  , http-types >= 0.10
+  , http-types >= 0.11
   , optparse-applicative >= 0.14
   , tasty >= 0.12
   , tasty-hunit >= 0.10
