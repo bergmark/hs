@@ -38,23 +38,23 @@ packages:
 constraints:
     Cabal >= 2
   , HUnit >= 1.6
-  , aeson >= 1.2
+  , aeson >= 1.3
   , base-orphans >= 0.6
---  , conduit >= 1.3
---  , conduit-extra >= 1.3
   , criterion >= 1.2
+  , criterion >= 1.4.0.0
+  , exceptions >= 0.10
   , generic-deriving >= 1.12
   , happstack-server >= 7.5.0
-  , haskell-src-exts >= 1.19.1
---  , http-conduit >= 2.3
+  , haskell-src-exts >= 1.20.2
   , http-types >= 0.11
   , optparse-applicative >= 0.14
-  , resourcet == 1.1.*
-  , exceptions == 0.8.*
   , tasty >= 0.12
+  , tasty >= 1.0.1.1
   , tasty-hunit >= 0.10
+  , transformers-compat >= 0.6.0
   , wai >= 3.2.1.1
   , warp >= 3.2.11.2
-  , xml-conduit >= 1.7
-  , transformers-compat == 0.5.*
-  , criterion >= 1.4.0.0
+-- Upper bounds
+  , resourcet < 1.2
+  , xml-conduit < 1.8
+  , conduit-extra < 1.3
