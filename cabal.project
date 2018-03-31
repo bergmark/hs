@@ -6,6 +6,7 @@ packages:
   arrow-list
   attoparsec-expr
 --  fay
+--  fay-base
 --  fay-dom
 --  fay-jquery
 --  fay-prim
@@ -21,16 +22,16 @@ packages:
   imagesize-conduit
   json-schema
   multipart
-  rest/code-builder
-  rest/rest-client
-  rest/rest-core
-  rest/rest-example
-  rest/rest-gen
-  rest/rest-happstack
-  rest/rest-snap
-  rest/rest-stringmap
-  rest/rest-types
-  rest/rest-wai
+--  rest/code-builder
+--  rest/rest-client
+--  rest/rest-core
+--  rest/rest-example
+--  rest/rest-gen
+--  rest/rest-happstack
+--  rest/rest-snap
+--  rest/rest-stringmap
+--  rest/rest-types
+--  rest/rest-wai
   through-text
   tostring
 --  transliterate
