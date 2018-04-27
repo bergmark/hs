@@ -5,6 +5,7 @@ packages:
   aeson-utils
   arrow-list
   attoparsec-expr
+  base-compat-migrate
 --  fay
 --  fay-base
 --  fay-dom
