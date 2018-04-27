@@ -73,6 +73,3 @@
 [submodule "uri-encode"]
 	path = uri-encode
 	url = git@github.com:silkapp/uri-encode.git
-[submodule "base-compat-migrate"]
-	path = base-compat-migrate
-	url = git@github.com:bergmark/base-compat-migrate.git
