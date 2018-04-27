@@ -56,7 +56,3 @@ constraints:
   , transformers-compat >= 0.6.0
   , wai >= 3.2.1.1
   , warp >= 3.2.11.2
--- Upper bounds
-  , resourcet < 1.2
-  , xml-conduit < 1.8
-  , conduit-extra < 1.3
